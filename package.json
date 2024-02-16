@@ -1,0 +1,25 @@
+{
+  "name": "module-9-challenge",
+  "version": "1.0.0",
+  "description": "ReadMe App",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mike-Neal/Module-9-Challenge.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Mike-Neal/Module-9-Challenge/issues"
+  },
+  "homepage": "https://github.com/Mike-Neal/Module-9-Challenge#readme"
+}
